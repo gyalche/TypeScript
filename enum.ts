@@ -1,6 +1,5 @@
 //ENUM type;
 //javascript doesnt support enum;
-
 enum Weekday {
   sunday,
   monday,
