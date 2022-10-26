@@ -5,7 +5,6 @@ class Fruit {
     this.price = price;
     Fruit.count++;
   }
-  
 }
 
 const mango = new Fruit(20);
