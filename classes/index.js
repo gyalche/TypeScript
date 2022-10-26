@@ -4,6 +4,9 @@ class Coordinate {
         this.x = x;
         this.y = y;
     }
+    getX() {
+        return this.x;
+    }
 }
 const point = new Coordinate(46, 9);
-console.log(point.x);
+console.log(point.getX());
